@@ -1,0 +1,14 @@
+<application>
+  <component name="GoSdkList">
+    <sdk-url>
+      <set>
+        <option value="file://" />
+        <option value="file:///usr/local/Cellar/go/1.15.2/libexec" />
+        <option value="file:///usr/local/Cellar/go/1.15.5/libexec" />
+        <option value="file:///usr/local/Cellar/go/1.15/libexec" />
+        <option value="file:///usr/local/Cellar/go/1.16.3/libexec" />
+        <option value="file:///usr/local/opt/go/libexec" />
+      </set>
+    </sdk-url>
+  </component>
+</application>
