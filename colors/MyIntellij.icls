@@ -3,7 +3,7 @@
     <property name="created">2021-09-06T16:06:05</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2023-02-04T13:35:16</property>
+    <property name="modified">2023-02-09T18:30:12</property>
     <property name="originalScheme">My Intellij</property>
   </metaInfo>
   <colors>
@@ -26,7 +26,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="489aef" />
+        <option name="FOREGROUND" value="9f8ae5" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -527,11 +527,6 @@
     <option name="KDOC_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="dc68f4" />
-      </value>
-    </option>
-    <option name="KOTLIN_ANNOTATION">
-      <value>
-        <option name="FOREGROUND" value="f4f26b" />
       </value>
     </option>
     <option name="KOTLIN_CLASS">
