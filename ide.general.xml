@@ -8,12 +8,13 @@
     <entry key="ide.mac.transparentTitleBarAppearance" value="true" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="rdclient.asyncActions" value="false" />
-    <entry key="ide.experimental.ui" value="false" />
     <entry key="js.debugger.webconsole" value="false" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
+    <entry key="ide.experimental.ui" value="false" />
     <entry key="ide.experimental.ui.inter.font" value="false" />
+    <entry key="debugger.new.tool.window.layout" value="false" />
     <entry key="idea.plugins.compatible.build" value="" />
   </component>
 </application>
