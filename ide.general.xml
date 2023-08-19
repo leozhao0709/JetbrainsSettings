@@ -1,15 +1,17 @@
 <application>
   <component name="GeneralSettings">
+    <option name="showTipsOnStartup" value="false" />
     <option name="confirmExit" value="false" />
     <option name="processCloseConfirmation" value="TERMINATE" />
-    <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="SBT.system.in.process" value="true" />
-    <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
-    <entry key="js.debugger.webconsole" value="false" />
     <entry key="rdclient.asyncActions" value="false" />
+    <entry key="js.debugger.webconsole" value="false" />
+    <entry key="SBT.system.in.process" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="BSP.experimental.feature.enabled" value="false" />
+    <entry key="ide.mac.transparentTitleBarAppearance" value="true" />
+    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
