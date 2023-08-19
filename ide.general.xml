@@ -12,6 +12,6 @@
     <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="ide.mac.transparentTitleBarAppearance" value="true" />
-    <entry key="ide.experimental.ui" value="false" />
+    <entry key="ide.experimental.ui" value="true" />
   </component>
 </application>
