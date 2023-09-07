@@ -1,4 +1,4 @@
-<keymap version="1" name="Vscode (Mac OS X)" parent="Mac OS X 10.5+">
+<keymap version="1" name="Vscode (Mac OS X)" parent="Eclipse (Mac OS X)">
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
