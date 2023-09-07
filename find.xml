@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>!*_spec.rb, !*.yml, !*.less</mask>
+    <mask>!*_spec.rb, !*.yml, **.css</mask>
+    <mask>!*.yml, !*.css</mask>
+    <mask>!*_spec.rb, !*.yml, !*.css</mask>
+    <mask>!*.feature</mask>
+    <mask>.html</mask>
+    <mask>*.erb,  *.haml</mask>
+    <mask>!*_spec.rb, !*.yml, !*.css, !*.less, !*.js</mask>
+    <mask>*.less</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.css</mask>
+    <mask>!*_spec.rb, !*.yml, !*.css, !*.less,!*.js</mask>
+    <mask>!*_spec.rb, !*.yml, !*.css, !*.less</mask>
+    <mask>!*_spec.rb, !*.css, !*.less,!*.js,!*.map</mask>
+    <mask>!*_spec.rb, !*.css, !*.less,!*.js,!*.map,!*.yml</mask>
+    <mask>*.tsx</mask>
+    <mask>!*_spec.rb, !*.yml, !*.css, !*.less,!*.json</mask>
+    <mask>*.scss</mask>
+    <mask>!*_spec.rb, !*.yml, !*.css, !*.less,!*.json,!*.log, !*.js</mask>
+    <mask>*spec.rb</mask>
+    <mask>!*_spec.rb, !*.yml, !*.css, !*.less,!*.json,!*.log</mask>
+    <mask>*.rb</mask>
+    <mask>*.js</mask>
+    <mask>*.yml</mask>
+    <mask>!*_spec.rb, !*.yml, !*.css, !*.less,!*.json,!*.log,!*.html</mask>
+    <mask>!*_spec.rb, !*.yml, !*.css, !*.less,!*.json,!*.log,!*.html,!*.hot-update.js</mask>
+  </component>
+</application>
