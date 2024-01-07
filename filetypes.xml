@@ -2,11 +2,8 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="ProcessProgressBar.jsx" type="AUTO_DETECTED" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="abc" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="abc" type="PLAIN_TEXT" />
       <mapping ext="xcscheme" type="XML" />
       <mapping ext="gpx" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
@@ -15,6 +12,9 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
